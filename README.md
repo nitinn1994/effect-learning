@@ -1,1 +1,1 @@
-# learning-effect-ts
+# effect-learning
